@@ -1,0 +1,156 @@
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\WEBSITE\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Empty CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Empty CameraCapture\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Level 1 - CameraCapture\Level 1 - CameraCapture\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Dropbox\Mech 5_2\423\Final Project\Level 1 - CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Dropbox\Mech 5_2\423\Final Project\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.lblConvertTest.resources
+C:\Dropbox\MECH 423 Final Project\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Dropbox\MECH 423 Final Project\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.lblConvertTest.resources
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Dropbox\Mech 5_2\423\Final Project\Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.exe
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.pdb
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.exe
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.pdb
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\ZedGraph.dll
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.lblConvertTest.resources
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+D:\Dropbox\Mech 5_2\423\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.exe
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\ZedGraph.dll
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.lblConvertTest.resources
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.exe
+E:\Dropbox\Final Project\_Main\Code\Vision\CameraCapture EMGU 3_1\CameraCapture\obj\Debug\CameraCapture.pdb
