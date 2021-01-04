@@ -1,5 +1,16 @@
 # airhotkey-table-robot
 
-## The project will include designing a vision system and motor control system for moving the air hockey mallet to deflect the air hockey puck. The final product will be much smaller than a full sized hockey and the air hockey puck and mallet will be smaller than standard as well. 
+## Machine Rendering:
+![main pic1](https://github.com/BrianCKWang/airhotkey-table-robot/blob/master/assets/files/main-img-01.png)
+## Communication Interface (C#)
+![main pic2](https://github.com/BrianCKWang/airhotkey-table-robot/blob/master/assets/files/main-img-02.png)
 
-https://www.youtube.com/watch?v=BS8QJHVgoiw
+## Objective
+### The project includes a vision system and motor control system to control an air hockey mallet  in order to deflect the air hockey puck. 
+
+## Technology
+ - C# with EMGU CV .NET library
+ - Arduino
+ - A4988 Stepper Motor Driver
+ 
+[Link to Live Demo Video](https://www.youtube.com/watch?v=BS8QJHVgoiw)
