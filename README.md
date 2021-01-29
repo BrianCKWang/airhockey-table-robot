@@ -1,9 +1,9 @@
-# airhotkey-table-robot
+# airhockey-table-robot
 
 ## Machine Rendering:
-![main pic1](https://github.com/BrianCKWang/airhotkey-table-robot/blob/master/assets/files/main-img-01.png)
+![main pic1](https://github.com/BrianCKWang/airhockey-table-robot/blob/master/assets/files/main-img-01.png)
 ## Communication Interface (C#)
-![main pic2](https://github.com/BrianCKWang/airhotkey-table-robot/blob/master/assets/files/main-img-02.png)
+![main pic2](https://github.com/BrianCKWang/airhockey-table-robot/blob/master/assets/files/main-img-02.png)
 
 ## Objective
 ### The project includes a vision system and motor control system to control an air hockey mallet  in order to deflect the air hockey puck. 
